@@ -1,8 +1,7 @@
 # Supplementary Material
-
 This appendix provides implementation details, extraction examples, evaluation statistics, and baseline comparisons for the main paper.
+More details, see - [**AIED_appendix.pdf**](https://anonymous.4open.science/r/AIED_supplementary_material_submission613-C453/AIED_appendix.pdf).
 
----
 
 ## Contents
 
